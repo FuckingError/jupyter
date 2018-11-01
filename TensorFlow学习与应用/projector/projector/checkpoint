@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/jupyter/TensorFlow\345\255\246\344\271\240\344\270\216\345\272\224\347\224\250/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "E:/jupyter/TensorFlow\345\255\246\344\271\240\344\270\216\345\272\224\347\224\250/projector/projector/a_model.ckpt-1001"
